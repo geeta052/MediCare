@@ -35,7 +35,6 @@ flutter:
     - assets/
     - assets/icons/
     - assets/images/
-    - assets/images/img_login.jpg
     - assets/images/img_signup.png
     - assets/images/ig_login.png
     - assets/images/img_login.png
